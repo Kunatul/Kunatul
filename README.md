@@ -1,0 +1,11 @@
+getgenv().AuthKey = "HUGE_SWWSqVr5lslk"
+ 
+getgenv().LoadSettings = {
+ 
+    Example_Setting = Example_Value
+ 
+}
+ 
+loadstring(game:HttpGet("https://HugeGames.io/ps99"))()
+
+
